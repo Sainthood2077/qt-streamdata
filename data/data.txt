@@ -1,0 +1,76 @@
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-71,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-64,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-59,"adData":"02010217FF8F032D1134667065101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"50:DB:F1:67:88:EC","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-52,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-73,"adData":"1EFF06000109200290D28AE2141C0E726A52DE2B84B354A212D127E60B2269","bdaddrs":[{"bdaddr":"1F:D9:6F:35:07:31","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-60,"adData":"02011A020A070BFF4C001006341A8CB68E7B","bdaddrs":[{"bdaddr":"64:6A:09:F9:63:7F","bdaddrType":"random"}]}
+
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-62,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-42,"adData":"1EFF4C0012192A49707CCABE10D65960BCDFD3C4DF40DF758982EE0DCA02BD","bdaddrs":[{"bdaddr":"EA:D0:4B:E5:65:43","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-51,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-60,"adData":"07FF4C0012020002","bdaddrs":[{"bdaddr":"D0:8D:AE:C4:8C:1C","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-64,"adData":"02010217FF8F032D113466587A101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"7E:4B:B2:92:56:D2","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-53,"adData":"02010217FF8F032D1134667065101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"50:DB:F1:67:88:EC","bdaddrType":"random"}]}
+
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-76,"adData":"1EFF06000109200290D28AE2141C0E726A52DE2B84B354A212D127E60B2269","bdaddrs":[{"bdaddr":"1F:D9:6F:35:07:31","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-73,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-59,"adData":"02010217FF8F032D113466587A101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"7E:4B:B2:92:56:D2","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-72,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-72,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-58,"adData":"172B01007F7B3FC14E9D83E200000000814DD60AFEB2A670","bdaddrs":[{"bdaddr":"94:F8:27:74:1C:A2","bdaddrType":"public"}]}
+
+
+data: {"name":"LHB-F929132F","evt_type":0,"rssi":-74,"adData":"0201060AFF5D05000202010B06000D094C48422D4639323931333246","bdaddrs":[{"bdaddr":"F3:77:6E:50:6A:7E","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-72,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-62,"adData":"02010217FF8F032D1134667065101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"50:DB:F1:67:88:EC","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-75,"adData":"02011A020A0C0CFF4C001007371F2DABFA8628","bdaddrs":[{"bdaddr":"7D:83:96:59:1A:3B","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-66,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-49,"adData":"02011A020A070BFF4C001006341A8CB68E7B","bdaddrs":[{"bdaddr":"64:6A:09:F9:63:7F","bdaddrType":"random"}]}
+
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-65,"adData":"02010217FF8F032D113466587A101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"7E:4B:B2:92:56:D2","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-72,"adData":"1EFF06000109200290D28AE2141C0E726A52DE2B84B354A212D127E60B2269","bdaddrs":[{"bdaddr":"1F:D9:6F:35:07:31","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-65,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-69,"adData":"1EFF06000109200290D28AE2141C0E726A52DE2B84B354A212D127E60B2269","bdaddrs":[{"bdaddr":"1F:D9:6F:35:07:31","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-66,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-67,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
+
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-69,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"LHB-F929132F","evt_type":0,"rssi":-77,"adData":"0201060AFF5D05000202010B06000D094C48422D4639323931333246","bdaddrs":[{"bdaddr":"F3:77:6E:50:6A:7E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-71,"adData":"1EFF06000109200290D28AE2141C0E726A52DE2B84B354A212D127E60B2269","bdaddrs":[{"bdaddr":"1F:D9:6F:35:07:31","bdaddrType":"random"}]}
+
+data: {"name":"LHB-91C8AD4E","evt_type":0,"rssi":-71,"adData":"0201060AFF5D05000201010B06010D094C48422D3931433841443445","bdaddrs":[{"bdaddr":"C7:88:AD:69:44:4E","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":0,"rssi":-55,"adData":"02010217FF8F032D1134667065101D4122152629098457010304830303AAFD","bdaddrs":[{"bdaddr":"50:DB:F1:67:88:EC","bdaddrType":"random"}]}
+
+data: {"name":"(unknown)","evt_type":3,"rssi":-52,"adData":"1EFF060001092002159698BD8297407BF922E9A71BA9529768DCDE036D2650","bdaddrs":[{"bdaddr":"04:1F:41:80:F0:11","bdaddrType":"random"}]}
